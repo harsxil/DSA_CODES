@@ -205,7 +205,7 @@ public class avl_tree {
 
     // Main driver
     public static void main(String[] args) {
-        AVLTree tree = new AVLTree(); // Create AVL tree instance
+        avl_tree tree = new avl_tree(); // Create AVL tree instance
         Scanner sc = new Scanner(System.in); // scanner for input
 
         // Insertion
